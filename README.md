@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello !
 
-<!--
-**myc42/myc42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
 
-Here are some ideas to get you started:
+Concepteur et Développeur d’Applications | en cours de spécialisation en **Expert en architecture Informatique à l’École 42**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+## 💻 Tech Stack:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,ts" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,docker,php,linux" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cloudflare,aws,mysql,mongodb" />
+  </a>
+</p>
+
+## 📫 Me contacter
+
+
+ledoncode@gmail.com
