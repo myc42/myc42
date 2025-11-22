@@ -16,7 +16,7 @@ Concepteur et Développeur d’Applications | en cours de spécialisation en **E
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,docker,php,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,php,docker,linux" />
   </a>
 </p>
 <p align="center">
