@@ -2,7 +2,7 @@
 
 ## Je me présente
 
-Je suis Myc, Concepteur et Développeur d’Applications | en cours de spécialisation en **Expert en architecture Informatique à l’École 42**.
+Je suis M.Y.C , Concepteur et Développeur d’Applications | en cours de spécialisation en **Expert en architecture Informatique à l’École 42**.
 
 
 
