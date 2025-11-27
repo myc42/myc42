@@ -1,8 +1,8 @@
 # 👋 Hello !
 
-## À propos de moi
+## Je me présente
 
-Concepteur et Développeur d’Applications | en cours de spécialisation en **Expert en architecture Informatique à l’École 42**.
+Myc, Concepteur et Développeur d’Applications | en cours de spécialisation en **Expert en architecture Informatique à l’École 42**.
 
 
 
