@@ -1,6 +1,6 @@
 # 👋 Hello !
 
-## Je suis
+
 
 Concepteur et Développeur d’Applications | en cours de spécialisation en **Expert en architecture Informatique à l’École 42**.
 
