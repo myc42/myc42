@@ -11,7 +11,7 @@ Concepteur et Développeur d’Applications | en cours de spécialisation en **E
 ## 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,ts" />
+    <img src="https://skillicons.dev/icons?i=tailwind,react" />
   </a>
 </p>
 <p align="center">
