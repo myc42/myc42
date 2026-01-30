@@ -16,12 +16,12 @@ Concepteur et Développeur d’Applications | en cours de spécialisation en **E
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,php,rust" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,php,docker,ubuntu" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,aws,mysql,mongodb,docker,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,aws,mysql,mongodb," />
   </a>
 </p>
 
