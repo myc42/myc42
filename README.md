@@ -7,7 +7,7 @@ Builder & IT Architect
 
 
 
-## 💻 Tech Stack:
+## 💻  Stack:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind,react" />
@@ -15,12 +15,12 @@ Builder & IT Architect
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,php,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,php" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,aws,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,aws,postgres,linux,docker" />
   </a>
 </p>
 
