@@ -20,7 +20,7 @@ Builder & IT Architect
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,aws,postgres,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,aws,postgres,linux,docker,Kubernetes" />
   </a>
 </p>
 
